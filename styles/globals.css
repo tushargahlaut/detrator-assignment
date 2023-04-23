@@ -105,3 +105,9 @@ a {
     color-scheme: dark;
   }
 }
+
+.MuiContainer-root {
+  width: 100vw;
+  padding-left: 0;
+  padding-right: 0;
+}
